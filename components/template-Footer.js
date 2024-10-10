@@ -25,10 +25,10 @@ footerContainer.innerHTML = `
   <div class="aval-rea d-flex">
     <!-- AVALIAR RECURSO -->
     <!-- Atualizar "Nome+do+Recurso" -->
-    <a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSfoe5bxjjASle0FQSNtxvEvL73yVqlXtedVCcLs0-uOYwfHmA/viewform?usp=pp_url&entry.542052009=Cem+Conceitos+de+Contabilidade" target="_blank">Avaliar este recurso</a>
+    <a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSfoe5bxjjASle0FQSNtxvEvL73yVqlXtedVCcLs0-uOYwfHmA/viewform?usp=pp_url&entry.542052009=Manual+de+redação+científica" target="_blank">Avaliar este recurso</a>
     <!-- REPORTAR ERRO -->
     <!-- Atualizar "Nome+do+Recurso" -->
-    <a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSeE4DT6yuFY4wArPAPQ86GMbRLFwnlTLG-C-s5t2mFdRkR8bA/viewform?usp=pp_url&entry.1523910789=Cem+Conceitos+de+Contabilidade" target="_blank">Reportar erro</a>
+    <a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSeE4DT6yuFY4wArPAPQ86GMbRLFwnlTLG-C-s5t2mFdRkR8bA/viewform?usp=pp_url&entry.1523910789=Manual+de+redação+científica" target="_blank">Reportar erro</a>
   </div>
 `;
 
