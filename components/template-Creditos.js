@@ -15,6 +15,9 @@ inicioCreditos.appendChild(creditosContent);
 let creditosBody = document.createElement("div");
 creditosBody.classList.add("modal-body");
 creditosBody.innerHTML = `
+  <h6>Governo do Estado de São Paulo</h6>
+  <p>Secretaria da Ciência, Tecnologia e Inovação</p>
+
   <h6>UNIVERSIDADE VIRTUAL DO ESTADO DE SÃO PAULO – UNIVESP</h6>
   <p><span class="funcao">Presidente</span>Marcos Augusto Borges</p>
   <p><span class="funcao">Diretora Acadêmica</span>Simone Telles Martins Ramos</p>
