@@ -1,0 +1,116 @@
+:root{
+  --uni-bg-roxo: #494672;
+}
+
+:root {
+  --uni-bg-creme: #F4DFCB;
+}
+
+html{
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #DFE6E8;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+#conteudoPrincipal{
+  background-color: var(--uni-bg-roxo);
+}
+
+button{
+  cursor: pointer;
+}
+
+a, a:hover{
+  outline: none;
+  text-decoration: none;
+}
+
+
+
+
+/* COOKIES CONTAINER */
+
+#cookies-container{
+  background-color: #fff;
+  width: 100%;
+  border: 2px solid var(--uni-bg-roxo);
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  gap: 50px;
+}
+
+.text-cookie{
+  margin-left: 30px;
+}
+
+.text-cookie > p{
+  font-size: 16px;
+}
+
+.buttons-cookie{
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.buttons-cookie > button{
+  outline: none;
+  border: 1;
+  width: 180px;
+  height: 40px;
+  border-radius: 1px;
+  cursor: pointer;
+}
+
+#botao-recusar-cookies{
+  background-color: #fff;
+  color: var(--uni-bg-roxo);
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid var(--uni-bg-roxo);
+}
+
+#botao-aceitar-cookies{
+  background-color: var(--uni-bg-roxo);
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid var(--uni-bg-roxo);
+}
+
+.buttons-cookie > span{
+  width: 10%;
+}
+
+#cookies-container span > img{
+  width: 20px;
+  cursor: pointer;
+}
+/* END OF COOKIES CONTAINER */
+
+
+
+
+
+
+  #exampleModalCenter{
+    top: 200px;
+  }
+
+  @media (min-width: 576px){
+    .modal-dialog {
+      max-width: 1110px;
+      margin: 1.75rem auto;
+  }
+}
+
+@media (min-width: 1400px){
+  #exampleModalCenter{
+    top: 325px;
+  }
+}
